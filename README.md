@@ -10,3 +10,5 @@ Tracking PDB Deposition made by DIALS with different facilities
 [Click here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzExMDFlNzAtNmQzMS00YmY1LWE3MjAtM2ZkZTY1OWYyNDI5IiwidCI6IjM5NjU3M2NiLWYzNzgtNGI2OC05YmM4LTE1NzU1YzBjNTFmMyIsImMiOjZ9)
 
 </details>
+
+<img width="513" height="735" alt="image" src="https://github.com/user-attachments/assets/4e31a8d8-fbdf-47a1-b050-1c171fd2b391" />
