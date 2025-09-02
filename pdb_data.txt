@@ -1,0 +1,833 @@
+{
+	"query_id": "fbfcbff5-5db6-4a8a-8f89-1c7bd9458bb7",
+	"result_type": "entry",
+	"total_count": 2976,
+	"facets": [
+		{
+			"name": "RELEASE_DATE_FACET",
+			"buckets": [
+				{
+					"label": "2015",
+					"population": 6,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 4
+								},
+								{
+									"label": "APS",
+									"population": 1
+								},
+								{
+									"label": "SLAC LCLS",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2016",
+					"population": 21,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 15
+								},
+								{
+									"label": "APS",
+									"population": 1
+								},
+								{
+									"label": "ESRF",
+									"population": 1
+								},
+								{
+									"label": "NSLS",
+									"population": 1
+								},
+								{
+									"label": "SLAC LCLS",
+									"population": 1
+								},
+								{
+									"label": "SPring-8",
+									"population": 1
+								},
+								{
+									"label": "SSRF",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2017",
+					"population": 79,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 60
+								},
+								{
+									"label": "SPring-8",
+									"population": 6
+								},
+								{
+									"label": "SLS",
+									"population": 5
+								},
+								{
+									"label": "ALS",
+									"population": 2
+								},
+								{
+									"label": "ESRF",
+									"population": 2
+								},
+								{
+									"label": "APS",
+									"population": 1
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 1
+								},
+								{
+									"label": "BESSY",
+									"population": 1
+								},
+								{
+									"label": "SOLEIL",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2018",
+					"population": 127,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 84
+								},
+								{
+									"label": "ALS",
+									"population": 12
+								},
+								{
+									"label": "CLSI",
+									"population": 7
+								},
+								{
+									"label": "APS",
+									"population": 5
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 5
+								},
+								{
+									"label": "SLS",
+									"population": 4
+								},
+								{
+									"label": "ESRF",
+									"population": 3
+								},
+								{
+									"label": "NSLS-II",
+									"population": 2
+								},
+								{
+									"label": "SPring-8",
+									"population": 2
+								},
+								{
+									"label": "BESSY",
+									"population": 1
+								},
+								{
+									"label": "PETRA III, EMBL c/o DESY",
+									"population": 1
+								},
+								{
+									"label": "SOLEIL",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2019",
+					"population": 258,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 182
+								},
+								{
+									"label": "ESRF",
+									"population": 15
+								},
+								{
+									"label": "APS",
+									"population": 11
+								},
+								{
+									"label": "SLS",
+									"population": 8
+								},
+								{
+									"label": "ALS",
+									"population": 7
+								},
+								{
+									"label": "Photon Factory",
+									"population": 5
+								},
+								{
+									"label": "SSRF",
+									"population": 5
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 4
+								},
+								{
+									"label": "CLSI",
+									"population": 4
+								},
+								{
+									"label": "PETRA III, DESY",
+									"population": 4
+								},
+								{
+									"label": "SPring-8",
+									"population": 4
+								},
+								{
+									"label": "SOLEIL",
+									"population": 3
+								},
+								{
+									"label": "BESSY",
+									"population": 2
+								},
+								{
+									"label": "NSLS-II",
+									"population": 1
+								},
+								{
+									"label": "SLAC LCLS",
+									"population": 1
+								},
+								{
+									"label": "SSRL",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2020",
+					"population": 404,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 257
+								},
+								{
+									"label": "APS",
+									"population": 31
+								},
+								{
+									"label": "PETRA III, DESY",
+									"population": 25
+								},
+								{
+									"label": "ESRF",
+									"population": 13
+								},
+								{
+									"label": "ALS",
+									"population": 10
+								},
+								{
+									"label": "NSLS-II",
+									"population": 10
+								},
+								{
+									"label": "SLAC LCLS",
+									"population": 7
+								},
+								{
+									"label": "SLS",
+									"population": 5
+								},
+								{
+									"label": "SPring-8",
+									"population": 4
+								},
+								{
+									"label": "SSRF",
+									"population": 4
+								},
+								{
+									"label": "SSRL",
+									"population": 4
+								},
+								{
+									"label": "BESSY",
+									"population": 3
+								},
+								{
+									"label": "EMBL/DESY, HAMBURG",
+									"population": 3
+								},
+								{
+									"label": "CLSI",
+									"population": 2
+								},
+								{
+									"label": "SOLEIL",
+									"population": 2
+								},
+								{
+									"label": "ILL",
+									"population": 1
+								},
+								{
+									"label": "LNLS",
+									"population": 1
+								},
+								{
+									"label": "PETRA III, EMBL c/o DESY",
+									"population": 1
+								},
+								{
+									"label": "Photon Factory",
+									"population": 1
+								},
+								{
+									"label": "SACLA",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2021",
+					"population": 403,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 213
+								},
+								{
+									"label": "APS",
+									"population": 22
+								},
+								{
+									"label": "ESRF",
+									"population": 21
+								},
+								{
+									"label": "NSLS-II",
+									"population": 15
+								},
+								{
+									"label": "PETRA III, DESY",
+									"population": 10
+								},
+								{
+									"label": "ALS",
+									"population": 9
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 9
+								},
+								{
+									"label": "SSRF",
+									"population": 9
+								},
+								{
+									"label": "CLSI",
+									"population": 8
+								},
+								{
+									"label": "MAX IV",
+									"population": 8
+								},
+								{
+									"label": "SLS",
+									"population": 8
+								},
+								{
+									"label": "Photon Factory",
+									"population": 5
+								},
+								{
+									"label": "SPring-8",
+									"population": 5
+								},
+								{
+									"label": "SACLA",
+									"population": 4
+								},
+								{
+									"label": "BESSY",
+									"population": 3
+								},
+								{
+									"label": "CHESS",
+									"population": 3
+								},
+								{
+									"label": "DIAMOND",
+									"population": 3
+								},
+								{
+									"label": "SOLEIL",
+									"population": 3
+								},
+								{
+									"label": "PAL/PLS",
+									"population": 2
+								},
+								{
+									"label": "PETRA III, EMBL c/o DESY",
+									"population": 2
+								},
+								{
+									"label": "SSRL",
+									"population": 2
+								},
+								{
+									"label": "EMBL/DESY, HAMBURG",
+									"population": 1
+								},
+								{
+									"label": "SLRI",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2022",
+					"population": 442,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 240
+								},
+								{
+									"label": "APS",
+									"population": 27
+								},
+								{
+									"label": "ALS",
+									"population": 25
+								},
+								{
+									"label": "ESRF",
+									"population": 22
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 16
+								},
+								{
+									"label": "SSRF",
+									"population": 12
+								},
+								{
+									"label": "SPring-8",
+									"population": 11
+								},
+								{
+									"label": "NSLS-II",
+									"population": 9
+								},
+								{
+									"label": "PETRA III, DESY",
+									"population": 9
+								},
+								{
+									"label": "SOLEIL",
+									"population": 8
+								},
+								{
+									"label": "BESSY",
+									"population": 5
+								},
+								{
+									"label": "CLSI",
+									"population": 5
+								},
+								{
+									"label": "SACLA",
+									"population": 5
+								},
+								{
+									"label": "SSRL",
+									"population": 5
+								},
+								{
+									"label": "MAX IV",
+									"population": 3
+								},
+								{
+									"label": "NSRRC",
+									"population": 3
+								},
+								{
+									"label": "SLS",
+									"population": 3
+								},
+								{
+									"label": "ALBA",
+									"population": 1
+								},
+								{
+									"label": "KURCHATOV SNC",
+									"population": 1
+								},
+								{
+									"label": "Photon Factory",
+									"population": 1
+								},
+								{
+									"label": "SLRI",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2023",
+					"population": 500,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 230
+								},
+								{
+									"label": "APS",
+									"population": 44
+								},
+								{
+									"label": "SSRL",
+									"population": 44
+								},
+								{
+									"label": "ALS",
+									"population": 26
+								},
+								{
+									"label": "ESRF",
+									"population": 26
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 23
+								},
+								{
+									"label": "PETRA III, DESY",
+									"population": 23
+								},
+								{
+									"label": "SSRF",
+									"population": 23
+								},
+								{
+									"label": "SPring-8",
+									"population": 11
+								},
+								{
+									"label": "CHESS",
+									"population": 10
+								},
+								{
+									"label": "MAX IV",
+									"population": 6
+								},
+								{
+									"label": "NSLS-II",
+									"population": 6
+								},
+								{
+									"label": "BESSY",
+									"population": 5
+								},
+								{
+									"label": "SLS",
+									"population": 4
+								},
+								{
+									"label": "PETRA III, EMBL c/o DESY",
+									"population": 3
+								},
+								{
+									"label": "SACLA",
+									"population": 3
+								},
+								{
+									"label": "CLSI",
+									"population": 2
+								},
+								{
+									"label": "SLAC LCLS",
+									"population": 2
+								},
+								{
+									"label": "ALBA",
+									"population": 1
+								},
+								{
+									"label": "KURCHATOV SNC",
+									"population": 1
+								},
+								{
+									"label": "LNLS SIRUS",
+									"population": 1
+								},
+								{
+									"label": "PAL/PLS",
+									"population": 1
+								},
+								{
+									"label": "Photon Factory",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2024",
+					"population": 383,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 193
+								},
+								{
+									"label": "APS",
+									"population": 35
+								},
+								{
+									"label": "SSRF",
+									"population": 35
+								},
+								{
+									"label": "ALS",
+									"population": 32
+								},
+								{
+									"label": "ESRF",
+									"population": 18
+								},
+								{
+									"label": "SPring-8",
+									"population": 14
+								},
+								{
+									"label": "NSLS-II",
+									"population": 8
+								},
+								{
+									"label": "SSRL",
+									"population": 8
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 7
+								},
+								{
+									"label": "SLS",
+									"population": 7
+								},
+								{
+									"label": "ALBA",
+									"population": 3
+								},
+								{
+									"label": "PETRA III, DESY",
+									"population": 3
+								},
+								{
+									"label": "Photon Factory",
+									"population": 3
+								},
+								{
+									"label": "BESSY",
+									"population": 2
+								},
+								{
+									"label": "CLSI",
+									"population": 2
+								},
+								{
+									"label": "MAX IV",
+									"population": 2
+								},
+								{
+									"label": "PAL/PLS",
+									"population": 2
+								},
+								{
+									"label": "CHESS",
+									"population": 1
+								},
+								{
+									"label": "KURCHATOV SNC",
+									"population": 1
+								},
+								{
+									"label": "NSLS",
+									"population": 1
+								},
+								{
+									"label": "PETRA III, EMBL c/o DESY",
+									"population": 1
+								},
+								{
+									"label": "SACLA",
+									"population": 1
+								},
+								{
+									"label": "SOLEIL",
+									"population": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"label": "2025",
+					"population": 353,
+					"facets": [
+						{
+							"name": "synchrotron_site",
+							"buckets": [
+								{
+									"label": "Diamond",
+									"population": 161
+								},
+								{
+									"label": "SSRF",
+									"population": 48
+								},
+								{
+									"label": "APS",
+									"population": 27
+								},
+								{
+									"label": "NSLS-II",
+									"population": 20
+								},
+								{
+									"label": "ESRF",
+									"population": 19
+								},
+								{
+									"label": "ALS",
+									"population": 17
+								},
+								{
+									"label": "CHESS",
+									"population": 15
+								},
+								{
+									"label": "BESSY",
+									"population": 7
+								},
+								{
+									"label": "CLSI",
+									"population": 7
+								},
+								{
+									"label": "SLAC LCLS",
+									"population": 6
+								},
+								{
+									"label": "SSRL",
+									"population": 6
+								},
+								{
+									"label": "SACLA",
+									"population": 5
+								},
+								{
+									"label": "Photon Factory",
+									"population": 4
+								},
+								{
+									"label": "PAL-XFEL",
+									"population": 3
+								},
+								{
+									"label": "Australian Synchrotron",
+									"population": 1
+								},
+								{
+									"label": "EMBL/DESY, HAMBURG",
+									"population": 1
+								},
+								{
+									"label": "MAX IV",
+									"population": 1
+								},
+								{
+									"label": "PETRA III, EMBL c/o DESY",
+									"population": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
