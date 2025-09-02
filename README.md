@@ -4,4 +4,9 @@ Tracking PDB Deposition made by DIALS with different facilities
 2. Use the Python script to generate a data table with 3 columns, year, facility, and depositions
 3. load the data table to PowerBI, and visualize the results
 
-results are shown as<a name="[my-custom-anchor-point](https://app.powerbi.com/view?r=eyJrIjoiNzExMDFlNzAtNmQzMS00YmY1LWE3MjAtM2ZkZTY1OWYyNDI5IiwidCI6IjM5NjU3M2NiLWYzNzgtNGI2OC05YmM4LTE1NzU1YzBjNTFmMyIsImMiOjZ9)"></a>
+<details>
+<summary>📊 View DIALS PDB Deposition Dashboard</summary>
+
+[Click here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzExMDFlNzAtNmQzMS00YmY1LWE3MjAtM2ZkZTY1OWYyNDI5IiwidCI6IjM5NjU3M2NiLWYzNzgtNGI2OC05YmM4LTE1NzU1YzBjNTFmMyIsImMiOjZ9)
+
+</details>
